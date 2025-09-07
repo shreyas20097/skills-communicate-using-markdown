@@ -5,3 +5,7 @@ Markdown is a lightweight syntax for formatting text — headings, lists, bold, 
 
 ### Example smaller header
 You can keep adding sections with `#` characters.
+
+
+![Octocat mascot](https://octodex.github.com/images/yaktocat.png)
+
